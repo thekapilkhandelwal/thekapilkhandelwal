@@ -16,6 +16,6 @@ I am currently working on Algorithms and NodeJS framework
 
 I am finishing up my Bachelor's degree program in
 Communication and Computer Engineering with a focus on software Development. 
-<br>
+<hr>
 
 ![Kapil's GitHub stats](https://github-readme-stats.vercel.app/api?username=thekapilkhandelwal&theme=tokyonight&show_icons=true)
