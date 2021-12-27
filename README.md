@@ -25,9 +25,3 @@ Communication and Computer Engineering with a focus on software Development.
 
 ![Kapil's GitHub stats](https://github-readme-stats.vercel.app/api?username=thekapilkhandelwal&theme=tokyonight&show_icons=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thekapilkhandelwal&theme=tokyonight" alt="thekapilkhandelwal" /></p><br />
-<br>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/thekapilkhandelwal/count.svg" />
-</p>
